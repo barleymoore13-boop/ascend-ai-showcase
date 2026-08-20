@@ -39,4 +39,4 @@ The private product, its tests, dependencies, schemas, and CI workflows are inte
 
 ## Publication status
 
-This is a local candidate awaiting human publication review. It has no public remote and has not been published. No open-source licence is asserted or implied.
+This showcase is publicly available for portfolio and engineering-review purposes. The underlying Ascend AI product remains private, and no open-source licence is asserted or implied.
