@@ -1,6 +1,6 @@
-# Ascend AI — Engineering Showcase
+# Ascend AI — Quiet Growth Showcase
 
-Ascend AI is a private, Mac-first career decision-support project. This repository is a deliberately limited portfolio case study: it explains the engineering approach and verified outcomes without publishing the product source code, private data, provider integrations, security internals, or Git history.
+Ascend AI is a private, Mac-first career decision-support project. This repository is a deliberately limited public showcase of the Quiet Growth landing page and approved synthetic-data demonstration video; it does not publish product source code, private data, provider integrations, security internals, or Git history.
 
 ## Product intent
 
